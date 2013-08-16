@@ -2,8 +2,8 @@
 title       : Open source software
 subtitle    : why? - use it - make it
 date        : 2013-08-06
-author      : Scott Chamberlain
-job         : rOpenSci
+author      : Fernando Mayer
+job         : ESALQ/USP
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
